@@ -1,0 +1,8 @@
+127.0.0.1 - - [03/Sep/2019:14:55:11 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [03/Sep/2019:14:55:14 +0530] "GET /60-IOCProject-BeanPostProcessor-BPPandMIUseCase/ HTTP/1.1" 200 188
+0:0:0:0:0:0:0:1 - - [03/Sep/2019:14:55:19 +0530] "GET /60-IOCProject-BeanPostProcessor-BPPandMIUseCase/studentReg_from.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Sep/2019:14:55:46 +0530] "POST /60-IOCProject-BeanPostProcessor-BPPandMIUseCase/controller HTTP/1.1" 200 173
+0:0:0:0:0:0:0:1 - - [03/Sep/2019:14:56:10 +0530] "GET /60-IOCProject-BeanPostProcessor-BPPandMIUseCase/index.jsp HTTP/1.1" 200 188
+127.0.0.1 - - [03/Sep/2019:14:56:45 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [03/Sep/2019:14:56:48 +0530] "GET /60-IOCProject-BeanPostProcessor-BPPandMIUseCase/ HTTP/1.1" 200 184
+0:0:0:0:0:0:0:1 - - [03/Sep/2019:14:57:09 +0530] "POST /60-IOCProject-BeanPostProcessor-BPPandMIUseCase/controller HTTP/1.1" 200 173

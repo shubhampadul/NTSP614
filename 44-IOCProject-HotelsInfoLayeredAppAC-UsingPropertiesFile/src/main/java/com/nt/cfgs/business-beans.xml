@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd">
+
+	<bean id="pphc"
+		class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+		<property name="locations">
+		<list>
+		<value>com/nt/commons/jdbc1.properties</value>
+		<value>com/nt/commons/jdbc2.properties</value>
+		</list>
+		</property>
+	</bean>
+	<!-- <context:property-placeholder location="com/nt/commons/jdbc1.properties"/> -->
+
+	<!--DataSource cfgs -->
+	<bean id="hdbcp" class="com.zaxxer.hikari.HikariDataSource">
+		<property name="driverClassName" value="${jdbc.driver}" />
+		<property name="jdbcUrl"
+			value="${jdbc.url}" />
+		<property name="username" value="${db.user}"/>
+		<property name="password" value="${db.pwd}"/>
+	</bean>
+
+	<!--DAO cfgs -->
+	<bean id="hotelDAO" class="com.nt.dao.HotelsInfoDAOImpl">
+		<constructor-arg ref="hdbcp" />
+	</bean>
+
+	<!--Service cfgs -->
+	<bean id="hotelService"
+		class="com.nt.service.HotelsInfoServiceImpl">
+		<constructor-arg ref="hotelDAO" />
+
+	</bean>
+
+
+</beans>

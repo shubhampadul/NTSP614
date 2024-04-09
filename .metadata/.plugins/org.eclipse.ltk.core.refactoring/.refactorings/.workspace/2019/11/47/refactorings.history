@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;S109-IOCProject-TMagmnt&apos; to &apos;S109-IOCProject-TXMgnt-DistrubutedApp&apos;" description="Rename resource &apos;S109-IOCProject-TMagmnt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/S109-IOCProject-TMagmnt" name="S109-IOCProject-TXMgnt-DistrubutedApp" stamp="1574363032021" updateReferences="true"/>
+</session>

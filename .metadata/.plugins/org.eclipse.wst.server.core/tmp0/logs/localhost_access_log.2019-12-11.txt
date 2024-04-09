@@ -1,0 +1,4 @@
+127.0.0.1 - - [11/Dec/2019:20:17:05 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [11/Dec/2019:20:17:13 +0530] "GET /60-IOCProject-BeanPostProcessor-BPPandMIUseCase/ HTTP/1.1" 200 184
+0:0:0:0:0:0:0:1 - - [11/Dec/2019:20:19:16 +0530] "GET /60-IOCProject-BeanPostProcessor-BPPandMIUseCase/studentReg_from.html HTTP/1.1" 200 460
+0:0:0:0:0:0:0:1 - - [11/Dec/2019:20:19:45 +0530] "POST /60-IOCProject-BeanPostProcessor-BPPandMIUseCase/controller HTTP/1.1" 200 173

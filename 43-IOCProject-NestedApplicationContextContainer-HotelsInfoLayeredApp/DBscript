@@ -1,0 +1,17 @@
+SQL> create table hotels_info(regNo number(10),hname varchar2(30),type varchar2(20),address varchar2(30),location varchar2(20),checkIn varchar2(20),checkOut varchar2(20));
+
+Table created.
+
+SQL> desc;
+Usage: DESCRIBE [schema.]object[@db_link]
+SQL> desc hotels_info;
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ REGNO                                              NUMBER(10)
+ HNAME                                              VARCHAR2(30)
+ TYPE                                               VARCHAR2(20)
+ ADDRESS                                            VARCHAR2(30)
+ LOCATION                                           VARCHAR2(20)
+ CHECKIN                                            VARCHAR2(20)
+ CHECKOUT                                           VARCHAR2(20)
+ REGNO,HNAME,TYPE,ADDRESS,LOCATION,CHECKIN,CHECKOUT

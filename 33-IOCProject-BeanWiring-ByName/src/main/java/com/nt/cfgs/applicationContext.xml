@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    
+    <bean id="event1" class="com.nt.beans.Events">
+    <property name="games">
+    <array>
+    <value>Badminton</value>
+    <value>BaseBall</value>
+    <value>Kabaddi</value>
+    <value>BasketBall</value>
+    </array>
+    </property>
+    </bean>
+    
+    <bean id="event2" class="com.nt.beans.Events" >
+    <property name="games">
+    <array>
+    <value>Cricket</value>
+    <value>Football</value>
+    <value>Golf</value>
+    <value>HollyBall</value>
+    </array>
+    </property>
+    </bean>
+    
+    <bean id="trnmt" class="com.nt.beans.Tournament" autowire="byName"/> 
+    <!-- <property name="event" ref="event"/> -->
+</beans>

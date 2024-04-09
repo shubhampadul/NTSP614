@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:c="http://www.springframework.org/schema/c"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+     <!--Date cfgs  -->
+     <bean id="dop" class="java.util.Date" p:date="11" p:month="12" p:year="117"/>
+     <bean id="dob" class="java.util.Date" p:date="11" p:month="03" p:year="90"/>
+     
+     <!--Dependent bean cfgs  -->
+     <bean id="swift" class="com.nt.beans.Car" c:modelname="Swift-dezire" c:regNo="MH28555" c:dop-ref="dop"/>
+     
+     <!--Target bean cfgs  -->
+     <bean id="rajeshwar" class="com.nt.beans.Owner" p:name="Rajeshwar" p:aid="75897525288" p:dob-ref="dob" p:car-ref="swift"/>
+
+</beans>

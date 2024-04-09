@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;94-IOCProject-SpringJdbc-JdbcTemplateTest-SpringBoot/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;93-IOCProject-SpringJdbc-JdbcTemplateTest-100P&apos;&#x0D;&#x0A;- Destination element: &apos;94-IOCProject-SpringJdbc-JdbcTemplateTest-SpringBoot/src/main/java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     93-IOCProject-SpringJdbc-JdbcTemplateTest-100P/src/main/java/com.nt.dao&#x0D;&#x0A;     93-IOCProject-SpringJdbc-JdbcTemplateTest-100P/src/main/java/com.nt.service" description="Copy packages" destination="=94-IOCProject-SpringJdbc-JdbcTemplateTest-SpringBoot/src\/main\/java" element1="/src\/main\/java&lt;com.nt.dao" element2="/src\/main\/java&lt;com.nt.service" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1569865262065" version="1.0"/>
+</session>

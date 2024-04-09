@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="G:\SpringWorkspace\S103-IOCProject-SpringAOP-BeforeAdviceAuditing"/>
+			<item value="G:\SpringWorkspace\01-IOCProject-SetterInjectionTest POC"/>
+			<item value="G:\SpringWorkspace\99-IOCProject-SimpleJdbc-SimpleJdbcInsert"/>
+			<item value="G:\SpringWorkspace\67-IOCProject-Anno-RequiredAnnotaion"/>
+			<item value="G:\SpringWorkspace\67-IOCProject-Anno-RequiredAnnotaion\src\main\java"/>
+			<item value="G:\SpringWorkspace\60-IOCProject-BeanPostProcessor-BPPandMIUseCase"/>
+			<item value="G:\SpringWorkspace\61-IOCProject-BeanPostProcessor-BPPandMIUseCase-BeanFactory"/>
+			<item value="G:\SpringWorkspace\57-IOCProject-LookUpMethodInjectionSol1"/>
+			<item value="G:\SpringWorkspace\27-IOCProject-DependancyLookup"/>
+			<item value="G:\SpringWorkspace\40-IOCProject-NestedBeanFactory-HotelsInfoLayeredAppByUsingRefTag"/>
+			<item value="G:\SpringWorkspace\24-IOCPROJECT-BeanInheritance-Bike"/>
+			<item value="G:\SpringWorkspace\23-IOCPROJECT-NullInjection\src\main\java\com\nt\beans\PersonProfile.java"/>
+			<item value="G:\SpringWorkspace\35-IOCProject-EmpLayeredApp-NestedBeanFactory"/>
+			<item value="G:\SpringWorkspace\17-IOCProject-ResolvingDiffParamConstructorProb-ByIndex"/>
+			<item value="G:\SpringWorkspace\10-IOCProject-StrategyDP-FactoryDP-in Spring"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="nit.BeanPost"/>
+			<item value="nit.S109_IOCProject_TMagmnt"/>
+			<item value="com.nt.test"/>
+			<item value="nit.SpringJdbc_"/>
+			<item value="con.nt.test"/>
+		</list>
+		<list key="groupId">
+			<item value="nit"/>
+		</list>
+		<list key="artifactId">
+			<item value="BeanPost"/>
+			<item value="S109-IOCProject-TMagmnt"/>
+			<item value="S108-IOCProject-SpringIntegratedAspectJAOP-AroundAspect"/>
+			<item value="S105-IOCProject-SpringAOP-AroundAdvie-ProgramaticApproch"/>
+			<item value="S104-IOCProject-SpringAOP-ThrowsAdvice"/>
+			<item value="S103-IOCProject-SpringAOP-BeforeAdvice"/>
+			<item value="S102-IOCProject-SpringAOP-Advice"/>
+			<item value="101-IOCProject-SpringJdbc-MappingSqlOpAsSubClass"/>
+			<item value="100-IOCProject-SpringJdbc-SimpleJdbcCall"/>
+			<item value="99-IOCProject-SimpleJdbc-SimpleJdbcInsert"/>
+			<item value="97-IOCProject-SpringJdbc-BatchProcessing-BusReservation"/>
+			<item value="SpringJdbc-"/>
+			<item value="96-IOCProject-SprngJdbc-Callback_Interface_Test2"/>
+			<item value="96-IOCProject-SprngJdbc-Callback_Interface_Test-ResultSetExtractor"/>
+			<item value="92-IOCProject-SpringJdbc"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;95-IOCProject-SpringJdbc-CallableInaterfaceTest&apos; to &apos;95-IOCProject-SpringJdbc-Callback_Interface_Test&apos;" description="Rename resource &apos;95-IOCProject-SpringJdbc-CallableInaterfaceTest&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/95-IOCProject-SpringJdbc-CallableInaterfaceTest" name="95-IOCProject-SpringJdbc-Callback_Interface_Test" stamp="1570473539183" updateReferences="true"/>
+</session>

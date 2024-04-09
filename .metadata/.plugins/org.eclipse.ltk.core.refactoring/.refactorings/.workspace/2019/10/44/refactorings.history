@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;S103-IOCProject-SpringAOP-BeforeAdvice&apos; to &apos;S103-IOCProject-SpringAOP-BeforeAdviceAuditing&apos;" description="Rename resource &apos;S103-IOCProject-SpringAOP-BeforeAdvice&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/S103-IOCProject-SpringAOP-BeforeAdvice" name="S103-IOCProject-SpringAOP-BeforeAdviceAuditing" stamp="1572462881223" updateReferences="true"/>
+</session>

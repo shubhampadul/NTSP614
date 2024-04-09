@@ -1,0 +1,10 @@
+1562673357896	Copy packages
+1563037662130	Rename resource '11-IOCProject-StudentLayeredApplication-RealTimeDI_AutoIncrement'
+1563037925026	Delete resource '13-IOCProject-CustomerLayeredApplication-RealTimeDI'
+1563040202414	Rename resource '15-IOCProject-ResolvingDiffParamConstructorProb-ByName'
+1563040235360	Rename resource '14-IOCProject-SolveDiffParamConsturctorProb'
+1563040243345	Rename resource '15-IOCProject-SolveDiffParamConsturctorProbByType'
+1563040299376	Rename resource '16-IOCProject-SolveDiffParamConsturctorProbByName'
+1563041394651	Rename resource '17-IOCProject-SolveDiffParamConsturctorProbByIndex'
+1563044420344	Rename resource '18-CyclicDependancyInjection'
+1563044478962	Rename resource '18-IOCProject-InjectionNull'

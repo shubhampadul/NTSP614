@@ -1,0 +1,20 @@
+package com.nt.java;
+
+public class Test {
+
+	public static void main(String[] args) {
+		int total=10;
+		int extra=2;
+		int  Klaudia=0;
+		int f2=0;
+		
+		
+		
+		 Klaudia=extra*3;
+		f2=extra*2;		
+		System.out.println( Klaudia);
+		System.out.println(f2);
+
+	}
+
+}

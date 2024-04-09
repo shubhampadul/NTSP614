@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans-4.3.xsd">
+	
+	<bean id="imd" class="com.nt.beans.IntrAmtDetails">
+	<property name="pamt" value="10000.0f"/>
+	<property name="rate" value="2f"/>
+	<property name="time" value="12f"/>
+	</bean>
+	
+	<bean id="iac" class="com.nt.beans.IntrAmtCalculator">
+	<constructor-arg ref="imd"/>
+	</bean>
+
+</beans>

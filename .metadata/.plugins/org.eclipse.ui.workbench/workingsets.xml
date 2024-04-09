@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1549477009150_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=01-IOCProject-SetterInjectionTest POC/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=02-IOCProject-newInstance Method/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=03-IOCProject-ConstructionInjection POC/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=04-IOCProject-AccessPrivateConstructor-In Core Java/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=05-IOCProject-AccessPrivateConstructorInSpring/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=06-IOCProject-BeanColabaration/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=06-IOCProject-BeanCollabaration-TightCoupling/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=07-IOCProject-BeanCollabaration-looseCoupling/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=08-IOCProject-StrategyDP-CoreJava/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=09-IOCProject-StrategyDP-FactoryDP-In Core JavaUsingPropertiesFile/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=10-IOCProject-StrategyDP-FactoryDP-in Spring/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=11-IOCProject-EmployeeLayerApp/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=12-IOCProject-EmployeeLayerApp-UsingSequence/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=13-IOCProject-StudentLayeredApplication-RealTimeDI_AutoIncrement/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=14-IOCProject-ResolvingDiffParamConstructorProb/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=15-IOCProject-ResolvingDiffParamConstructorProb-ByType/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=16-IOCProject-ResolvingDiffParamConstructorProb-ByName/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=17-IOCProject-ResolvingDiffParamConstructorProb-ByIndex/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=18-IOCProject-CyclicDependancyInjectionProblem/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=19-IOCProject-CyclicDependancyInjectionProblem-SolutionByUsingSetterInjection/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=20-IOCProject-CyclicDependancyInjectionProblem-SoluByUsingSetterAndConstructorInjec/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=21-IOCProject-InnerBean/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=22-IOCProject-CollectionInjection/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=23-IOCProject-NullInjection/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=24-IOCProject-BeanInheritance-Bike/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=25-IOCProject-CollectionMerging-UsingSetCollection/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=26-IOCProject-CollectionMergingByUsingList/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=27-IOCProject-DependancyLookup/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=28-IOCProject-DependancyLookup-WithoutUsingSecondContainer/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=29-IOCProject-DependancyLookup-WithoutUsingSecondContainerByCallingDependant/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=30-IOCProject-FactoryMethodBeanInstantiation/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=31-IOCProject-SingletonJavaClass/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=32-IOCProject-BeanScope/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=33-IOCProject-BeanWiring-ByName/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=34-IOCProject-BeanWiringByType/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=35-IOCProject-BeanWiringByConstructor/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=36-IOCProject-BeanWiringByAutodetect\(depprecatedFrom3.0 )/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=37-IOCProject-EmployeeLayerApp-UsingBeanAutowire/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=38-IOCProject-P-namespaceAndC-namespace/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=39-IOCProject-NestedBeanFactory-HotelsInfoLayeredApp/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=40-IOCProject-NestedBeanFactory-HotelsInfoLayeredAppByUsingRefTag/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=41-IOCProject-DependancyCheck/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=42-IOCProject-BeanInheritance-BikeByUsingAC/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=43-IOCProject-NestedApplicationContextContainer-HotelsInfoLayeredApp/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=44-IOCProject-HotelsInfoLayeredAppAC-UsingPropertiesFile/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=45-IOCProject-InternationalizationInSpring/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=46-IOCProject-InternationalizationInSpring-EventHandling/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=47-IOCProject-BeanLifeCycle-CheckVoting-DeclarativeApproch/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=48-IOCProject-BeanLifeCycle-CheckVotingEligibility-ProgramaticApproch/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=49-IOCProject-FactoryBean-UsingDateClass/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=50-IOCProject-FactoryBean-UsingCalendarClass/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=51-IOCProject-ServiceLocator-FactoryBean/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=51-IOCProject-ServiceLocator-FactoryBean/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=54-IOCProject-TraditionalDependencyLookUp/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=55-IOCProject-TraditionalDependencyLookUp-WithAwareInjection/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=56-IOCProject-LookUpMethodInjectionProblem/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=57-IOCProject-LookUpMethodInjectionSol1/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=58-IOCProject-LMIProblem-Sol2/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=59-IOCProject-MethodInjection/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=60-IOCProject-BeanPostProcessor-BPPandMIUseCase/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=60-IOCProject-BeanPostProcessor-BPPandMIUseCase/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=61-IOCProject-BeanPostProcessor-BPPandMIUseCase-BeanFactory/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=61-IOCProject-BeanPostProcessor-BPPandMIUseCase-BeanFactory/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=62-IOCProject-BeanLifeCycleFlowDiagramaticApproch/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=63-IOCProject-/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=64-IOCProject-BuiltInPropertyEditors-PersonAdharApp/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=65-IOCProject-BuiltInPropertyEditor-CalcSimpleInterest/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=66-IOCProject-CustomPropertyEditor-CalcSimpleInterest/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=67-IOCProject-Anno-RequiredAnnotaion/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=68-IOCProject-Anno-Autowire/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=69-IOCProject-Anno-StudentLayeredApplication-RealTimeDI_AutoIncrement/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=78-IOCProject100P-NestedBeanFactory-HotelsInfoLayeredApp-/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=79-IOCProject-ServiceLocator-FactoryBean/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=79-IOCProject-ServiceLocator-FactoryBean/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=79-IOCProject100P-InnerBean/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=82-IOCProjectSpringBoot-WishMessageGenerator1/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=82-IOCProjectSpringBoot-WishMessageGenerator1/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=83-IOCProjectSpringBoot-EmployeeLayeredApp/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=83-IOCProjectSpringBoot-EmployeeLayeredApp/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=84-IOCProjectSpringBoot-EmployeeLayeredApp-Profiles/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=84-IOCProjectSpringBoot-EmployeeLayeredApp-Profiles/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=85-IOCProjectSpringBoot-EmployeeLayeredApp-ProfilesByUsingYAML/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=85-IOCProjectSpringBoot-EmployeeLayeredApp-ProfilesByUsingYAML/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=89-IOCProject-SPEL-WithXml/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=GlobusSoftTest/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=String/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=91-IOCProject-SpringJdbc-FirstApp/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=77-IOCProj100PCode-WishMessageGeneratorApp/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1549477009197_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=11-IOCProject-EmployeeLayerApp/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=12-IOCProject-EmployeeLayerApp-UsingSequence/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=14-IOCProject-ResolvingDiffParamConstructorProb/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=15-IOCProject-ResolvingDiffParamConstructorProb-ByType/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=16-IOCProject-ResolvingDiffParamConstructorProb-ByName/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=17-IOCProject-ResolvingDiffParamConstructorProb-ByIndex/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=18-IOCProject-CyclicDependancyInjectionProblem/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=19-IOCProject-CyclicDependancyInjectionProblem-SolutionByUsingSetterInjection/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=20-IOCProject-CyclicDependancyInjectionProblem-SoluByUsingSetterAndConstructorInjec/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=21-IOCProject-InnerBean/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=22-IOCProject-CollectionInjection/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=23-IOCProject-NullInjection/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=24-IOCProject-BeanInheritance-Bike/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=25-IOCProject-CollectionMerging-UsingSetCollection/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=26-IOCProject-CollectionMergingByUsingList/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=27-IOCProject-DependancyLookup/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=28-IOCProject-DependancyLookup-WithoutUsingSecondContainer/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=29-IOCProject-DependancyLookup-WithoutUsingSecondContainerByCallingDependant/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=30-IOCProject-FactoryMethodBeanInstantiation/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=31-IOCProject-SingletonJavaClass/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=32-IOCProject-BeanScope/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=33-IOCProject-BeanWiring-ByName/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=34-IOCProject-BeanWiringByType/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=35-IOCProject-BeanWiringByConstructor/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=36-IOCProject-BeanWiringByAutodetect\(depprecatedFrom3.0 )/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=37-IOCProject-EmployeeLayerApp-UsingBeanAutowire/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=38-IOCProject-P-namespaceAndC-namespace/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=39-IOCProject-NestedBeanFactory-HotelsInfoLayeredApp/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=40-IOCProject-NestedBeanFactory-HotelsInfoLayeredAppByUsingRefTag/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=41-IOCProject-DependancyCheck/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=42-IOCProject-BeanInheritance-BikeByUsingAC/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=43-IOCProject-NestedApplicationContextContainer-HotelsInfoLayeredApp/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=44-IOCProject-HotelsInfoLayeredAppAC-UsingPropertiesFile/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=45-IOCProject-InternationalizationInSpring/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=46-IOCProject-InternationalizationInSpring-EventHandling/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=47-IOCProject-BeanLifeCycle-CheckVoting-DeclarativeApproch/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=48-IOCProject-BeanLifeCycle-CheckVotingEligibility-ProgramaticApproch/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=49-IOCProject-FactoryBean-UsingDateClass/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=50-IOCProject-FactoryBean-UsingCalendarClass/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=51-IOCProject-ServiceLocator-FactoryBean/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=54-IOCProject-TraditionalDependencyLookUp/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=55-IOCProject-TraditionalDependencyLookUp-WithAwareInjection/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=56-IOCProject-LookUpMethodInjectionProblem/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=57-IOCProject-LookUpMethodInjectionSol1/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=58-IOCProject-LMIProblem-Sol2/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=59-IOCProject-MethodInjection/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=60-IOCProject-BeanPostProcessor-BPPandMIUseCase/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=61-IOCProject-BeanPostProcessor-BPPandMIUseCase-BeanFactory/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=62-IOCProject-BeanLifeCycleFlowDiagramaticApproch/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=63-IOCProject-/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=64-IOCProject-BuiltInPropertyEditors-PersonAdharApp/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=65-IOCProject-BuiltInPropertyEditor-CalcSimpleInterest/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=66-IOCProject-CustomPropertyEditor-CalcSimpleInterest/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=67-IOCProject-Anno-RequiredAnnotaion/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=68-IOCProject-Anno-Autowire/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=78-IOCProject100P-NestedBeanFactory-HotelsInfoLayeredApp-/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=79-IOCProject-ServiceLocator-FactoryBean/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=79-IOCProject100P-InnerBean/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=82-IOCProjectSpringBoot-WishMessageGenerator1/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=83-IOCProjectSpringBoot-EmployeeLayeredApp/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=84-IOCProjectSpringBoot-EmployeeLayeredApp-Profiles/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=85-IOCProjectSpringBoot-EmployeeLayeredApp-ProfilesByUsingYAML/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=89-IOCProject-SPEL-WithXml/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=91-IOCProject-SpringJdbc-FirstApp/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=77-IOCProj100PCode-WishMessageGeneratorApp/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1549477037518_2" label="Window Working Set" name="Aggregate for window 1549477037517"/>
+</workingSetManager>

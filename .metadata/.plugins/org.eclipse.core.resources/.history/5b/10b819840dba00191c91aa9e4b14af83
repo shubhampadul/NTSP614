@@ -1,0 +1,10 @@
+package com.nt.module2;
+
+public class EmployeeCount {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

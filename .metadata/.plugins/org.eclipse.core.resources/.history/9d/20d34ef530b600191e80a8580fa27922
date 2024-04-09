@@ -1,0 +1,46 @@
+package com.nt.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.beans.BeanUtils;
+
+import com.nt.bo.HotelsInfoBo;
+import com.nt.dao.HotelsInfoDAO;
+import com.nt.dto.HotelsInfoDTO;
+
+public class HotelsInfoServiceImpl implements HotelsInfoService {
+	private HotelsInfoDAO dao=null;
+	
+	public HotelsInfoServiceImpl(HotelsInfoDAO dao) {
+		System.out.println("HotelsInfoServiceImpl.HotelsInfoServiceImpl()");
+		this.dao = dao;
+	}
+
+	public List<HotelsInfoDTO> findHotelsByCity(String[] city) throws Exception {
+		List<HotelsInfoBo> listBO=null;
+		List<HotelsInfoDTO> listDTO=null;
+		//convert city[] as required query condition
+		StringBuffer sb=new StringBuffer("('");
+		for(int i=0;i<city.length;i++) {
+			if(i==city.length-1)
+				sb.append(city[i]+"')");
+			else
+				sb.append(city[i]+"','");
+			
+			//('mumbai','pune','hyderabad')
+		}
+		System.out.println(sb.toString());
+		//use DAO 
+		listBO=dao.searchHotelsByCity(sb.toString());
+		listDTO=new ArrayList<HotelsInfoDTO>();
+		
+		//convert listBO to ListDTO
+		/*listBO.forEach(dto->{*/
+			
+			BeanUtils.copyProperties(listBO, listDTO);
+			
+		/*});*/
+		return listDTO;
+	}	
+}

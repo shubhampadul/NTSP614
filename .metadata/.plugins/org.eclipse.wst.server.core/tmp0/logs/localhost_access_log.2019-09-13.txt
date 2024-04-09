@@ -1,0 +1,5 @@
+127.0.0.1 - - [13/Sep/2019:22:24:53 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:22:24:54 +0530] "GET /51-IOCProject-ServiceLocator-FactoryBean/ HTTP/1.1" 200 159
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:22:24:58 +0530] "GET /51-IOCProject-ServiceLocator-FactoryBean/controller?mid=1001 HTTP/1.1" 200 133
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:22:25:00 +0530] "GET /51-IOCProject-ServiceLocator-FactoryBean/find_score.html HTTP/1.1" 200 159
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:22:25:02 +0530] "GET /51-IOCProject-ServiceLocator-FactoryBean/controller?mid=1002 HTTP/1.1" 200 133

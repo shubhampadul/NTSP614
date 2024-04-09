@@ -1,0 +1,20 @@
+package com.nt.java;
+
+public class Test {
+
+	public static void main(String[] args) {
+		int total=20;
+		int extra=3;
+		float  Klaudia=0;
+		float Natalia=0;
+		
+		float d=20/3;
+		
+		 Klaudia=extra*d;
+		 Natalia=extra*d;		
+		System.out.println( Klaudia);
+		System.out.println(Natalia);
+
+	}
+
+}

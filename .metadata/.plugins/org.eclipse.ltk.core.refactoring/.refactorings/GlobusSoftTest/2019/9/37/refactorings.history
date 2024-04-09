@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;FindLargestNumberArray.java&apos; to &apos;GlobusSoftTest/src/com.nt.java&apos;&#x0D;&#x0A;- Original project: &apos;GlobusSoftTest&apos;&#x0D;&#x0A;- Destination element: &apos;GlobusSoftTest/src/com.nt.java&apos;&#x0D;&#x0A;- Original element: &apos;com.nt.java.FindLargestNumberArray.java&apos;" description="Copy compilation unit" destination="/src&lt;com.nt.java" element1="/src&lt;com.nt.java{FindLargestNumberArray.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1568145439191" units="1" version="1.0"/>
+</session>

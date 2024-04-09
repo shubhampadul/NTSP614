@@ -1,0 +1,9 @@
+#jdbc cfgs
+spring: 
+   datasource: 
+      drive-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/godwe1
+      username: root
+      password: root
+      type: 
+      

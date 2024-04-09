@@ -1,0 +1,16 @@
+
+#Table 
+SQL> create table TicketResDetails(pid number(10),pname varchar2(20),source varchar2(20),dest varchar2(20),fare number(10));
+
+
+SQL> desc TicketResDetails;
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ PID                                                NUMBER(10)
+ PNAME                                              VARCHAR2(20)
+ SOURCE                                             VARCHAR2(20)
+ DEST                                               VARCHAR2(20)
+ FARE                                               NUMBER(10)
+ 
+ 
+ SQL> create sequence pas_seq start with 1 increment by 1;

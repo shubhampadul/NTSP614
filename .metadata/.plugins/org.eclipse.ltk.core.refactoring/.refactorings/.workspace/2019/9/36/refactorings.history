@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;62-IOCProject-&apos; to &apos;62-IOCProject-BeanLifeCycleFlowDiagramaticApproch&apos;" description="Rename resource &apos;62-IOCProject-&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/62-IOCProject-" name="62-IOCProject-BeanLifeCycleFlowDiagramaticApproch" stamp="1567503159734" updateReferences="true"/>
+</session>

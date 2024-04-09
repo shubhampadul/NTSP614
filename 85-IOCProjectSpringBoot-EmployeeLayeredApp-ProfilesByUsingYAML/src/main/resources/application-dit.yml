@@ -1,0 +1,8 @@
+#Data Base cfgs
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@localhost:1521:orcl
+    username: system
+    password: manager
+    type: org.apache.commons.dbcp.BasicDataSource

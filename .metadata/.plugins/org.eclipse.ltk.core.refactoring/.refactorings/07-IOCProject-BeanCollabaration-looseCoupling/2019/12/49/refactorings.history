@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 packages to &apos;21-IOCProject-InnerBean/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;07-IOCProject-BeanCollabaration-looseCoupling&apos;&#x0D;&#x0A;- Destination element: &apos;21-IOCProject-InnerBean/src/main/java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     07-IOCProject-BeanCollabaration-looseCoupling/src/com.nt.cfgs&#x0D;&#x0A;     07-IOCProject-BeanCollabaration-looseCoupling/src/com.nt.test&#x0D;&#x0A;     07-IOCProject-BeanCollabaration-looseCoupling/src/com.nt.beans" description="Copy packages" destination="=21-IOCProject-InnerBean/src\/main\/java" element1="/src&lt;com.nt.cfgs" element2="/src&lt;com.nt.test" element3="/src&lt;com.nt.beans" flags="589830" fragments="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1575569924460" version="1.0"/>
+</session>

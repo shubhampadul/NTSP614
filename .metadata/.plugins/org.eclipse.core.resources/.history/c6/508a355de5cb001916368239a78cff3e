@@ -1,0 +1,35 @@
+package com.nt.bpp;
+
+import java.util.Date;
+
+import org.springframework.beans.BeansException;
+import org.springframework.beans.factory.config.BeanPostProcessor;
+
+import com.nt.bo.BaseBO;
+
+public class BOPostProcessor implements BeanPostProcessor {
+	
+	public BOPostProcessor() {
+		System.out.println("BOPostProcessor 0 param constructor");
+	}
+	@Override
+	public Object postProcessAfterInitialization(Object bean, String beanName) throws BeansException {
+		System.out.println("BOPostProcessor.postProcessAfterInitialization()");
+		System.out.println(bean+"  "+beanName);
+		
+		
+		return bean;
+	}
+	
+	@Override
+	public Object postProcessBeforeInitialization(Object bean, String beanName) throws BeansException {
+		System.out.println("BOPostProcessor.postProcessBeforeInitialization()");
+		System.out.println(bean+"  "+beanName);
+		if(bean instanceof BaseBO) {
+			System.out.println(bean);
+			((BaseBO) bean).setDoj(new Date());
+		}
+		return bean;
+	}
+
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<bean id="Pdob" class="java.util.Date">
+	<property name="year" value="97"/>
+	<property name="date" value="06"/>
+	<property name="month" value="11"/>
+	</bean>
+	
+	<bean id="Pdoj" class="java.util.Date">
+	<property name="year" value="115"/>
+	<property name="date" value="06"/>
+	<property name="month" value="05"/>
+	</bean>
+	
+	<bean id="Pdom" class="java.util.Date">
+	<property name="year" value="117"/>
+	<property name="date" value="03"/>
+	<property name="month" value="05"/>
+	</bean>
+		
+	<bean id="pandya" class="com.nt.beans.PersonProfile">
+	<constructor-arg name="id" value="33"/>
+	<constructor-arg name="name" value="Hardik Panday"/>
+	<constructor-arg name="dob" ref="Pdob"/>
+	<constructor-arg><null/></constructor-arg>
+	<constructor-arg name="dom" ref="Pdom"/>
+	</bean>
+</beans>

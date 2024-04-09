@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;01-WishMessageGenerator&apos; to &apos;01-IOCProject-SetterInjectionTest&apos;" description="Rename resource &apos;01-WishMessageGenerator&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/01-WishMessageGenerator" name="01-IOCProject-SetterInjectionTest" stamp="1560581320203" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;1-FirstApp&apos;" deleteContents="false" description="Delete resource &apos;1-FirstApp&apos;" element1="/1-FirstApp" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1560582057052"/>
+</session>

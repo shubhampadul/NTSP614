@@ -1,0 +1,22 @@
+package com.nt.beans;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component("dtdc")
+public class DTDC implements Courier{
+	
+	
+
+	@Autowired(required=false)
+	private String addrs;
+	
+	public DTDC() {
+		System.out.println("DTDC.DTDC() 0-param constructor");
+	}
+	
+	@Override
+	public String toString() {
+		return "DTDC [addrs=" + addrs + "]";
+	}
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans-4.3.xsd
+		http://www.springframework.org/schema/aop https://www.springframework.org/schema/aop/spring-aop-4.3.xsd">
+
+
+
+	<!--target clss cfgs -->
+	<bean id="bankService" class="com.nt.service.BankServiceImpl" />
+
+	<!--aspect cfgs -->
+	<bean id="pmAspect"
+		class="com.nt.aspect.PerformanceMonitoringAspect" />
+
+	<aop:config>
+		<aop:pointcut id="ptc1"
+			expression="execution(*com.nt.service.*.*(..))" />
+		<aop:pointcut id="ptc2"
+			expression="execution(*com.nt.service.*.*(..))" />
+		<aop:aspect id="pmAspect" ref="pmAspect">
+			<aop:around pointcut-ref="ptc1" method="moniter" />
+		</aop:aspect>
+	</aop:config>
+
+</beans>

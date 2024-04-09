@@ -1,0 +1,13 @@
+#Query
+create table EmployeeLayeredApp(empNo number,empName varchar2(15),empAddrs varchar2(20),basicSal float,grossSal float,netSal float);
+
+
+SQL> desc EmployeeLayeredApp;
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ EMPNO                                              NUMBER
+ EMPNAME                                            VARCHAR2(15)
+ EMPADDRS                                           VARCHAR2(20)
+ BASICSAL                                           FLOAT(126)
+ GROSSSAL                                           FLOAT(126)
+ NETSAL                                             FLOAT(126)

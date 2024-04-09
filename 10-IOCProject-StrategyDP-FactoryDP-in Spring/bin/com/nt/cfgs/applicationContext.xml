@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!-- dependant beans cfg -->
+<bean id="dEngine" class="com.nt.beans.DiselEngine"/>
+<bean id="pEngine" class="com.nt.beans.PetrolEngine"/>
+<bean id="cEngine" class="com.nt.beans.CNGEngine"/>
+<bean id="wEngine" class="com.nt.beans.WatarEngine"/>
+
+<!-- Target bean cfg -->
+<bean id="vehicle" class="com.nt.beans.Vehicle">
+<constructor-arg ref="dEngine"/>
+</bean>
+
+
+
+
+</beans>
